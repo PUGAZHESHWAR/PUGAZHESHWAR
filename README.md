@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Pugal
+# Hi 👋, I'm Pugazheshwar
 
 ### Developer | Final Year B.Tech AI & DS @ Arunai Engineering College
 
@@ -22,9 +22,9 @@
 Languages      : JavaScript, TypeScript, Python, Java, C++
 Frontend       : React, React Native, Vite, Tailwind CSS
 Backend        : Flask, Spring Boot, Node.js (basics)
-Database       : MySQL, MongoDB
+Database       : MySQL, MongoDB, Postgres Sql
 Tools & DevOps : Git, GitHub, Postman, VS Code, EAS, Expo
-IoT & Hardware : ESP32, Arduino, Ultrasonic Sensor, PIR, Soil Moisture Sensor
+IoT & Hardware : ESP32, Arduino, Ultrasonic Sensor, PIR, Soil Moisture Sensor,etc...
 ```
 
 ---
@@ -52,9 +52,8 @@ Built a working prototype for UPI payment in a mobile app using Razorpay SDK and
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace with your actual link)*  
-- 📸 [Instagram](https://www.instagram.com/your-profile) *(optional)*  
-- ✉️ Email: your-email@example.com *(replace this too)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/Pugazheshwar) *(replace with your actual link)*  
+- ✉️ Email: pugazheshwar411@gmail.com *(replace this too)*  
 - 🌐 Portfolio: Coming Soon!  
 
 ---
@@ -65,15 +64,6 @@ Built a working prototype for UPI payment in a mobile app using Razorpay SDK and
 - Razorpay & UPI Payments Integration  
 - Advanced React Native Development  
 - AI + IoT Hybrid Projects  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Pugal's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 

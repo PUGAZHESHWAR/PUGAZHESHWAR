@@ -80,17 +80,16 @@ Built a working prototype for UPI payment in a mobile app using Razorpay SDK and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pugazheshwar&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pugazheshwar&theme=radical&border_radius=10" height="180px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pugazheshwar&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pugazheshwar&theme=tokyonight&border_radius=10" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugazheshwar&layout=compact&theme=radical&hide_border=false&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugazheshwar&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pugazheshwar&bg_color=141321&color=f8d847&line=fe428e&point=99e5e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pugazheshwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pugazheshwar&bg_color=0d1117&color=1e90ff&line=00bfff&point=87cefa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
 ###  Achievements
 
@@ -103,7 +102,7 @@ Built a working prototype for UPI payment in a mobile app using Razorpay SDK and
 ##  LeetCode Stats
 
 <p align="center">
-    <img src="https://leetcard.jacoblin.cool/Pugazheshwar?theme=radical&font=NTR&ext=contest"/>
+    <img src="https://leetcard.jacoblin.cool/Pugazheshwar?theme=dark&font=NTR&ext=contest"/>
 </p>
 
 ---
